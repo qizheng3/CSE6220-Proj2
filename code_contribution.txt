@@ -1,0 +1,12 @@
+Qi Zheng and Wenqing Shen worked collaboratively on Programming Assignment 2. They equally contributed to the final products of this project.
+
+- Wenqing Shen, wshen35: <50%>
+  Contributed to the data assembling part and optimized the Alltoall communication codes. 
+  Tested and run codes on cluster, collected and analyzed data for final report.
+  Plotted and analysed the data, and contributed content to the report.  
+
+- Qi Zheng, qzheng61: <50%>
+  Implemented processor and local array partitioning, and implemented Alltoall communication of the program. intergraded all components into a single program as per the given specifications.
+  Contributed content to the report. 
+  Handled data testing and code comments. 
+
